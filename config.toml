@@ -9,6 +9,7 @@ highlight_code = false
 
 [extra]
 github = "https://github.com/TriangleBitDevs/TriangleBitDevs.github.io"
-meetup = "https://lu.ma/trianglebitdevs"
+meetup = "https://www.meetup.com/trianglebitdevs/"
+luma = "https://lu.ma/trianglebitdevs"
 nostr = "https://nostr.eu/npub18z4n70qxqv40xef4je7fd0zya462gmkhvf2eax695f6sfgrk9yvq55lrpv"
 twitter = "https://twitter.com/TriangleBitDevs"
